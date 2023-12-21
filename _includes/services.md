@@ -6,8 +6,8 @@ Please read this page before asking for source code/pre-trained models/data, etc
 
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Email: xuxingxin@tju.edu.cn</autocolor></a></li>
-  <li><autocolor>Vision Gruop, Lab of Machine Learning and Data Mining, College of Interlligence and Computing, Tianjin University, China</autocolor></a></li>
+  <li><autocolor>Email: xuxingxin@tju.edu.cn</autocolor></li>
+  <li><autocolor>Address: Vision Gruop, Lab of Machine Learning and Data Mining, College of Interlligence and Computing, Tianjin University, China</autocolor></li>
 </ul>
 <!-- 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
