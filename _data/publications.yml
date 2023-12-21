@@ -20,52 +20,11 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
-  
-    - title: "Toward Realistic Face Photo–Sketch Synthesis via Composition-Aided GANs"
-      authors: Jun Yu, <strong>Xingxin Xu</strong>, Fei Gao, Shengjie Shi, Meng Wang, Dacheng Tao, Qingming Huang.
-      conference_short: TCYB
-      conference: IEEE transactions on cybernetics, 2020
-      pdf: https://ieeexplore.ieee.org/abstract/document/9025751/
-      code: https://github.com/jehovahxu/ca-gan
-      image: ./assets/img/CAGAN_architecture.png
-
-    - title: "Attentive and ensemble 3D dual path networks for pulmonary nodules classification"
-      authors: Hanliang Jiang, Fei Gao, <strong>Xingxin Xu</strong>, Fei Huang, Suguo Zhu
-      conference_short: Neurocomputing
-      conference: Neurocomputing, 2020
-      pdf: https://www.sciencedirect.com/science/article/pii/S0925231219310446
-      # code: https://github.com/jehovahxu/ca-gan
-      image: ./assets/img/lung_architecture.png
-
-    - title: "Improving facial attractiveness prediction via co-attention learning"
-      authors: Shengjie Shi, Fei Gao, Xuantong Meng, <strong>Xingxin Xu</strong>, Jingjie Zhu
-      conference_short: ICASSP
-      conference: ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing
-      pdf: https://ieeexplore.ieee.org/abstract/document/9025751/
-      # code: https://github.com/jehovahxu/ca-gan
-      image: ./assets/img/facial_att_architecture.png
-
-
-    - title: "Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation"
-      authors: Fei Gao, <strong>Xingxin Xu</strong>, Jun Yu, Meimei Shang, Xiang Li, Dacheng Tao
-      conference_short: TIP
-      conference: IEEE Transactions on Image Processing
-      pdf: https://ieeexplore.ieee.org/abstract/document/9366371
-      code: https://github.com/jehovahxu/chan
-      image: ./assets/img/chan_architecture.png
-
-    - title: "A knowledge-guided framework for fine-grained classification of liver lesions based on multi-phase CT images"
-      authors: <strong>Xingxin Xu</strong>, Qikui Zhu, Hanning Ying, Jiongcheng Li, Xiujun Cai, Shuo Li, Xiaoqing Liu, Yizhou Yu
-      conference_short: JBHI
-      conference: IEEE Journal of Biomedical and Health Informatics
-      pdf: https://ieeexplore.ieee.org/abstract/document/9944137
-      # code: https://github.com/jehovahxu/ca-gan
-      image: ./assets/img/MCCNet_architecture.png
       
-    # - title: "Latent heterogeneous graph network for incomplete multi-view learning"
-    #   authors: Pengfei Zhu, <strong>Xinjie Yao<strong>, Yu Wang*, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu.
-    #   conference_short: TMM
-    #   conference: IEEE Transactions on Multimedia, 2022
-    #   pdf: https://ieeexplore.ieee.org/document/9721669
-    #   code: https://github.com/yxjdarren/LHGN_TMM_2022
-    #   image: ./assets/img/LHGN_TMM.png
+    - title: "Latent heterogeneous graph network for incomplete multi-view learning"
+      authors: Pengfei Zhu, <strong>Xinjie Yao<strong>, Yu Wang*, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu.
+      conference_short: TMM
+      conference: IEEE Transactions on Multimedia, 2022
+      pdf: https://ieeexplore.ieee.org/document/9721669
+      code: https://github.com/yxjdarren/LHGN_TMM_2022
+      image: ./assets/img/LHGN_TMM.png
