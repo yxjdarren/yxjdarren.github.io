@@ -23,6 +23,10 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 - National Scholarship 2021
 - Outstanding Graduate of Shandong Province
 
+## Services
+
+- Workshop organizing committee/member: ICCV 2021, PRCV 2022, ICCV 2023
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
