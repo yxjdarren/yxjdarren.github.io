@@ -14,6 +14,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
   
 ## News
 
+- **[2023-06]** Our team has won the runner up of CVPR 2023 Continual Learning Challenge.
 - **[2022-02]** "Latent heterogeneous graph network for incomplete multi-view learning" has been accepted by IEEE Transactions on Multimedia (TMM).
 
 
