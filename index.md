@@ -4,17 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a D.Eng. student in Vision Group, Lab of Machine Learning and Data Mining, Tianjin University, advised by Prof. Pengfei Zhu.  Prior to attending TJU, I obtained my B.Sc. degree from Hangzhou Dianzi University, advised by Prof, Jun Yu in June 2020.
+I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Mining, Tianjin University (TJU), advised by Prof. Pengfei Zhu. Prior to attending TJU, I obtained my B.S. and M.S. degree from North China Electric Power University (NCEPU) and China University of Petroleum (East China) (UPC) in 2018 and 2021, respectively.
 
 ## Research Interests
 
-- **Image Fusion:** RGB-Infrared, Medical Image(CT-MRI, PET-MRI) image fusion
-- **Image-to-Image Translation:** Sketch-Photo transfer
-- **Medical Image Processing:** Disease diagnosis, OAR prediction, Oragns segmentation.
+- **Collaborative Learning**
+- **Class-Incremental Learning**
+- **Multi-View Learning**
   
 ## News
 
-- **[Feb. 2024]** Coming later
+- **[2022-02]** "Latent heterogeneous graph network for incomplete multi-view learning" has been accepted by IEEE Transactions on Multimedia (TMM).
 
 
 {% include_relative _includes/publications.md %}
