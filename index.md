@@ -9,7 +9,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 ## Research Interests
 
 - **Collaborative Learning**
-- **Class-Incremental Learning**
+- **Continual Learning**
 - **Multi-View Learning**
   
 ## News
