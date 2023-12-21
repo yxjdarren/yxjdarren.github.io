@@ -10,7 +10,7 @@ I am a Ph.D. student in VisDrone Group, Tianjin University, advised by Prof. Pen
 
 - **Image Fusion:** RGB-Infrared, Medical Image(CT-MRI, PET-MRI) image fusion
 - **Image-to-Image Translation:** Sketch-Photo transfer
-- **Medical Image Processing:** Disease diagnosis, OAR predication, Oragns segmentation.
+- **Medical Image Processing:** Disease diagnosis, OAR prediction, Oragns segmentation.
   
 ## News
 
