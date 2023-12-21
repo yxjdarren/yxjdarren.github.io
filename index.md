@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Tianjin University
+I am a Ph.D. student in VisDrone Group, Tianjin University, advised by Prof. Pengfei Zhu.  Prior to attending TJU, I obtained my B.Sc. degree from Hangzhou Dianzi University, advised by Prof, Jun Yu in June 2018.
 
 ## Research Interests
 
