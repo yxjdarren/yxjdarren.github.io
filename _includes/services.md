@@ -1,9 +1,9 @@
 ## Correspondence
 <!-- 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
--->
-Please read this page before asking for source code/pre-trained models/data, etc.
 
+Please read this page before asking for source code/pre-trained models/data, etc.
+-->
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Email: xuxingxin@tju.edu.cn</autocolor></li>
