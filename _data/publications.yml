@@ -22,7 +22,7 @@ main:
   #   image: ./assets/img/teaser_example.png
       
     - title: "Latent heterogeneous graph network for incomplete multi-view learning"
-      authors: Pengfei Zhu, <strong>Xinjie Yao<strong>, Yu Wang*, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu.
+      authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu.
       conference_short: TMM
       conference: IEEE Transactions on Multimedia, 2022
       pdf: https://ieeexplore.ieee.org/document/9721669
