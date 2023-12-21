@@ -20,3 +20,14 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+    - title: "Toward Realistic Face Photo–Sketch Synthesis via Composition-Aided GANs"
+    authors: Jun Yu, <strong>Xingxin Xu</strong>, Fei Gao, etc.
+    conference_short: TCYB
+    conference: IEEE transactions on cybernetics, 2020
+    pdf: https://ieeexplore.ieee.org/abstract/document/9025751/
+    code: https://github.com/jehovahxu/ca-gan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/CAGAN_architecture.png
