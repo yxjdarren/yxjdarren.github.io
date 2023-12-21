@@ -10,7 +10,7 @@ I am a Ph.D. student at Tianjin University
 
 - **Image Fusion:** RGB-Infrared, Medical Image(CT-MRI, PET-MRI) image fusion
 - **Image-to-Image Translation:** Sketch-Photo transfer
-- **Medical Image Processing:** Disease diagnosis， OAR predication, Oragns segmentation.
+- **Medical Image Processing:** Disease diagnosis, OAR predication, Oragns segmentation.
   
 ## News
 
