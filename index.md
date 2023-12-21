@@ -19,9 +19,9 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 
 ## Honors
 
-- The 2nd place in CVPR 2023 Continual Learning Challenge
-- National Scholarship 2021
-- Outstanding Graduate of Shandong Province
+- **[2023]** The 2nd place in CVPR 2023 Continual Learning Challenge
+- **[2021]** National Scholarship
+- **[2021]** Outstanding Graduate of Shandong Province
 
 ## Services
 
