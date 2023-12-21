@@ -34,7 +34,7 @@ main:
       conference_short: Neurocomputing
       conference: Neurocomputing, 2020
       pdf: https://www.sciencedirect.com/science/article/pii/S0925231219310446
-      code: https://github.com/jehovahxu/ca-gan
+      # code: https://github.com/jehovahxu/ca-gan
       image: ./assets/img/lung_architecture.png
 
     - title: "Improving facial attractiveness prediction via co-attention learning"
