@@ -14,7 +14,7 @@ I am a Ph.D. student in VisDrone Group, Tianjin University, advised by Prof. Pen
   
 ## News
 
-- **[Feb. 2020]** Coming later
+- **[Feb. 2024]** Coming later
 
 
 {% include_relative _includes/publications.md %}
