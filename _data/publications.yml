@@ -7,7 +7,7 @@ main:
       code: https://github.com/yxjdarren/IHGAT
       image: ./assets/img/IJCV_IHGAT.png
 
-      - title: "Multi-View Deep Subspace Clustering Networks"
+      - title: "Multi-view deep subspace clustering networks"
       authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Binyuan Hui, Dawei Du, and Qinghua Hu.
       conference_short: TCYB
       conference: IEEE Transactions on Cybernetics, 2024
