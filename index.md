@@ -14,6 +14,8 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
   
 ## News
 
+- **[2024-03]** "Integrated heterogeneous graph attention network for incomplete multi-modal clustering" has been accepted by International Journal of Computer Vision (IJCV).
+- **[2024-02]** "Latent heterogeneous graph network for incomplete multi-view learning" has been accepted by IEEE Transactions on Cybernetics (TCYB).
 - **[2023-06]** Our team has won the runner up of CVPR 2023 Continual Learning Challenge.
 - **[2022-02]** "Latent heterogeneous graph network for incomplete multi-view learning" has been accepted by IEEE Transactions on Multimedia (TMM).
 
@@ -26,6 +28,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 ## Services
 
 - Workshop organizing committee/member: ICCV 2021, PRCV 2022, ICCV 2023
+- Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), etc.
 
 {% include_relative _includes/publications.md %}
 
