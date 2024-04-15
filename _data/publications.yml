@@ -12,7 +12,7 @@ main:
       authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Binyuan Hui, Dawei Du, and Qinghua Hu.
       conference_short: TCYB
       conference: IEEE Transactions on Cybernetics, 2024
-      pdf: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
+      pdf: https://ieeexplore.ieee.org/abstract/document/10478097
       code: https://github.com/yxjdarren/MvDSCN
       image: ./assets/img/TCYB_MvDSCN.png
       
