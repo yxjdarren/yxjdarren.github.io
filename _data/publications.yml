@@ -4,7 +4,7 @@ main:
       authors: Yu Wang, <strong>Xinjie Yao</strong>, Pengfei Zhu*, Weihao Li, Meng Cao, and Qinghua Hu.
       conference_short: IJCV
       conference: International Journal of Computer Vision, 2024
-      pdf: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
+      pdf: https://link.springer.com/article/10.1007/s11263-024-02066-y
       code: https://github.com/yxjdarren/IHGAT
       image: ./assets/img/IJCV_IHGAT.png
 
