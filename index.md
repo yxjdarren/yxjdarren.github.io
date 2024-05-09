@@ -14,10 +14,11 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
   
 ## News
 
-- **[2024-03]** "Integrated heterogeneous graph attention network for incomplete multi-modal clustering" has been accepted by International Journal of Computer Vision (IJCV).
-- **[2024-02]** "Multi-view deep subspace clustering networks" has been accepted by IEEE Transactions on Cybernetics (TCYB).
+- **[2024-05]** "Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration" has been accepted by International Conference on Machine Learning (ICML).
+- **[2024-03]** "Integrated Heterogeneous Graph Attention Network for Incomplete Multi-Modal Clustering" has been accepted by International Journal of Computer Vision (IJCV).
+- **[2024-02]** "Multi-View Deep Subspace Clustering Networks" has been accepted by IEEE Transactions on Cybernetics (TCYB).
 - **[2023-06]** Our team has won the runner up of CVPR 2023 Continual Learning Challenge.
-- **[2022-02]** "Latent heterogeneous graph network for incomplete multi-view learning" has been accepted by IEEE Transactions on Multimedia (TMM).
+- **[2022-02]** "Latent Heterogeneous Graph Network for Incomplete Multi-View Learning" has been accepted by IEEE Transactions on Multimedia (TMM).
 
 ## Honors
 
