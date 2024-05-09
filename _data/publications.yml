@@ -15,7 +15,7 @@ main:
       code: https://github.com/yxjdarren/IHGAT
       image: ./assets/img/IJCV_IHGAT.png
 
-    - title: "Multi-view deep subspace clustering networks"
+    - title: "Multi-View Deep Subspace Clustering Networks"
       authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Binyuan Hui, Dawei Du, and Qinghua Hu.
       conference_short: TCYB
       conference: IEEE Transactions on Cybernetics, 2024
@@ -23,7 +23,7 @@ main:
       code: https://github.com/yxjdarren/MvDSCN
       image: ./assets/img/TCYB_MvDSCN.png
       
-    - title: "Latent heterogeneous graph network for incomplete multi-view learning"
+    - title: "Latent Heterogeneous Graph Network for Incomplete Multi-View Learning"
       authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu.
       conference_short: TMM
       conference: IEEE Transactions on Multimedia, 2022
