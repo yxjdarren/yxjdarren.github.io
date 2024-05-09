@@ -5,7 +5,7 @@ main:
       conference: International Conference on Machine Learning, 2024
       pdf: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
       code: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
-      image: ./assets/img/IJCV_IHGAT.png
+      image: ./assets/img/SL_ICML.png
 
     - title: "Integrated Heterogeneous Graph Attention Network for Incomplete Multi-Modal Clustering"
       authors: Yu Wang, <strong>Xinjie Yao</strong>, Pengfei Zhu*, Weihao Li, Meng Cao, and Qinghua Hu.
