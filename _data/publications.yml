@@ -3,8 +3,8 @@ main:
       authors: <strong>Xinjie Yao</strong>, Yu Wang, Pengfei Zhu, Wanyu Lin, Jialu Li, Weihao Li, Qinghua Hu.
       conference_short: ICML
       conference: International Conference on Machine Learning, 2024
-      pdf: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
-      code: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
+      pdf: https://openreview.net/pdf?id=aaeJpJw5Ur
+      code: https://github.com/yxjdarren/SL
       image: ./assets/img/SL_ICML.png
 
     - title: "Integrated Heterogeneous Graph Attention Network for Incomplete Multi-Modal Clustering"
