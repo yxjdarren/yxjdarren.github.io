@@ -1,6 +1,6 @@
 main:
     - title: "Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration"
-      authors: <strong>Xinjie Yao</strong>, Yu Wang, Pengfei Zhu, Wanyu Lin, Jialu Li, Weihao Li, Qinghua Hu.
+      authors: <strong>Xinjie Yao</strong>, Yu Wang, Pengfei Zhu*, Wanyu Lin, Jialu Li, Weihao Li, Qinghua Hu.
       conference_short: ICML
       conference: International Conference on Machine Learning, 2024
       pdf: https://openreview.net/pdf?id=aaeJpJw5Ur
