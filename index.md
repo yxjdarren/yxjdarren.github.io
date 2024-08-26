@@ -28,8 +28,10 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 
 ## Services
 
-- Workshop organizing committee/member: ICCV 2021, PRCV 2022, ICCV 2023
-- Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), NeurIPS 2024, etc.
+- Workshop organizing committee/member: ICCV 2021, PRCV 2022, ICCV 2023, CCDM 2024
+- Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- Reviewer of IEEE Access
+- Reviewer of ICLR/NeurIPS
 
 {% include_relative _includes/publications.md %}
 
