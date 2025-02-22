@@ -32,7 +32,7 @@ main:
       image: ./assets/img/LHGN_TMM.png
 
     - title: "Zero-Shot learning in industrial scenarios: New Large-Scale Benchmark, Challenges and Baseline"
-      authors: Zekai Zhang, Qinghui Chen, Maomao Xiong, Shijiao Ding, Zhanzhi Su, <strong>Xinjie Yao</strong>, Yiming Sun, Cong Bai, jinglin zhang.
+      authors: Zekai Zhang, Qinghui Chen, Maomao Xiong, Shijiao Ding, Zhanzhi Su, <strong>Xinjie Yao</strong>, Yiming Sun, Cong Bai, Jinglin Zhang.
       conference_short: AAAI
       conference: AAAI Conference on Artificial Intelligence, 2025
       pdf: https://scholar.google.com/citations?hl=zh-CN&user=tScuhLkAAAAJ
