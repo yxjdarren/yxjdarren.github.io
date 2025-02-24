@@ -41,7 +41,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 - Reviewer of International Conference on Machine Learning (ICML)
 - Reviewer of Neural Information Processing Systems (NeurIPS)
 - Reviewer of International Conference on Learning Representations (ICLR)
-- Reviewer of Artificial Intelligence and Statistics Conference (AISTATS)
+- Reviewer of International Conference on Artificial Intelligence and Statistics (AISTATS)
 - Reviewer of IEEE Transactions on Image Processing (TIP)
 - Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Reviewer of IEEE Transactions on Multimedia (TMM)
