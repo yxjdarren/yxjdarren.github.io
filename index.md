@@ -47,6 +47,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 - Reviewer of IEEE Transactions on Multimedia (TMM)
 - Reviewer of IEEE Transactions on Fuzzy Systems (TFS)
 - Reviewer of IEEE Transactions on Cybernetics (TCYB)
+- Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCA)
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - Reviewer of IEEE Access
