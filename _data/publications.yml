@@ -1,4 +1,12 @@
 main:
+    - title: "Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration"
+      authors: <strong>Xinjie Yao</strong>, Yu Wang, Pengfei Zhu*, Wanyu Lin, Ruipu Zhao,  Zhoupeng Guo, Weihao Li, Qinghua Hu.
+      conference_short: ICML
+      conference: International Conference on Machine Learning, 2025
+      pdf: https://scholar.google.com/citations?hl=zh-CN&user=tScuhLkAAAAJ
+      code: https://github.com/yxjdarren/SC
+      image: ./assets/img/SC_ICML.png
+      
     - title: "Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration"
       authors: <strong>Xinjie Yao</strong>, Yu Wang, Pengfei Zhu*, Wanyu Lin, Jialu Li, Weihao Li, Qinghua Hu.
       conference_short: ICML
@@ -35,6 +43,6 @@ main:
       authors: Zekai Zhang, Qinghui Chen, Maomao Xiong, Shijiao Ding, Zhanzhi Su, <strong>Xinjie Yao</strong>, Yiming Sun, Cong Bai, Jinglin Zhang.
       conference_short: AAAI
       conference: AAAI Conference on Artificial Intelligence, 2025
-      pdf: https://scholar.google.com/citations?hl=zh-CN&user=tScuhLkAAAAJ
-      code: https://scholar.google.com/citations?hl=zh-CN&user=tScuhLkAAAAJ
+      pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33124
+      code: https://ojs.aaai.org/index.php/AAAI/article/view/33124
       image: ./assets/img/AAAI2025.png
