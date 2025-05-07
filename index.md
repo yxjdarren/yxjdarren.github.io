@@ -14,6 +14,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
   
 ## News
 
+- **[2025-05]** "Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration" has been accepted by International Conference on Machine Learning (ICML, CCF-A).
 - **[2024-12]** "Zero-Shot learning in industrial scenarios: New Large-Scale Benchmark, Challenges and Baseline" has been accepted by AAAI Conference on Artificial Intelligence (AAAI, CCF-A).
 - **[2024-12]** Our team won the Bronze Medal in the University Track of the 2024 National Finals of the Ascend AI Innovation Competition.
 - **[2024-11]** I have been awarded the National Scholarship.
