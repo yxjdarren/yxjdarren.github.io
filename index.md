@@ -45,6 +45,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 - Reviewer of International Conference on Computer Vision (ICCV)
 - Reviewer of International Conference on Artificial Intelligence and Statistics (AISTATS)
 - Reviewer of IEEE Transactions on Image Processing (TIP)
+- Reviewer of IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Reviewer of IEEE Transactions on Multimedia (TMM)
 - Reviewer of IEEE Transactions on Fuzzy Systems (TFS)
@@ -52,6 +53,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 - Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCA)
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- Reviewer of IEEE Transactions on Emerging Topics in Computational Intelligence（TETCI）
 - Reviewer of IEEE Access
 
 {% include_relative _includes/publications.md %}
