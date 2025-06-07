@@ -39,6 +39,14 @@ main:
       code: https://github.com/yxjdarren/LHGN_TMM_2022
       image: ./assets/img/LHGN_TMM.png
 
+    - title: "Visible-Thermal Cross-Modality Class-Incremental Learning"
+      authors: <strong>Xinjie Yao</strong>, Yingxue Wang, Yu Wang*, Pengfei Zhu*, Ruipu Zhao, Weihao Li, Shenglei Pei, Wanyu Lin.
+      conference_short: ESWA
+      conference: Expert Systems with Applications, 2025
+      pdf: https://scholar.google.com/citations?hl=zh-CN&user=tScuhLkAAAAJ
+      code: https://scholar.google.com/citations?hl=zh-CN&user=tScuhLkAAAAJ
+      image: ./assets/img/HFP_ESWA.png
+
     - title: "Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline"
       authors: Zekai Zhang, Qinghui Chen, Maomao Xiong, Shijiao Ding, Zhanzhi Su, <strong>Xinjie Yao</strong>, Yiming Sun, Cong Bai, Jinglin Zhang.
       conference_short: AAAI
