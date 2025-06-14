@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Mining, Tianjin University (TJU), advised by Prof. Pengfei Zhu and Assoc. Prof. Yu Wang. Prior to attending TJU, I obtained my B.Sc. degree and M.Sc. degree from North China Electric Power University (NCEPU) and China University of Petroleum (East China) (UPC) in 2018 and 2021, respectively.
+I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Mining, Tianjin University (TJU), advised by Prof. Pengfei Zhu, Prof. Qinghua Hu and Assoc. Prof. Yu Wang. Prior to attending TJU, I obtained my B.Sc. degree and M.Sc. degree from North China Electric Power University (NCEPU) and China University of Petroleum (East China) (UPC) in 2018 and 2021, respectively.
 
 ## Research Interests
 
