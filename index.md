@@ -45,7 +45,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 - Reviewer of International Conference on Learning Representations (ICLR)
 - Reviewer of International Conference on Computer Vision (ICCV)
 - Reviewer of International Conference on Artificial Intelligence and Statistics (AISTATS)
-- Reviewer of IEEE Trans on Pattern Analysis and Machine Intelligence (TPAMI)
+- Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - Reviewer of IEEE Transactions on Image Processing (TIP)
 - Reviewer of IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
