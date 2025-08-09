@@ -58,6 +58,8 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 - Reviewer of IEEE Transactions on Big Data (TBD)
 - Reviewer of IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Reviewer of IEEE Signal Processing Letters (SPL)
+- Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI)
+- Reviewer of IET Intelligent Transport Systems
 - Reviewer of IEEE Access
 
 {% include_relative _includes/publications.md %}
