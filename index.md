@@ -56,6 +56,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - Reviewer of IEEE Transactions on Big Data (TBD)
+- Reviewer of IEEE Transactions on Services Computing (TSC)
 - Reviewer of IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Reviewer of IEEE Signal Processing Letters (SPL)
 - Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI)
