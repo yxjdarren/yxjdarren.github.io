@@ -14,6 +14,7 @@ I am a Ph.D. candidate in the Vision Group, Lab of Machine Learning and Data Min
   
 ## News
 
+- **[2025-09]** "Graphs Help Graphs: Multi-Agent Graph Socialized Learning" has been accepted by Neural Information Processing Systems (NeurIPS, CCF-A).
 - **[2025-06]** "Visible-Thermal Cross-Modality Class-Incremental Learning" has been accepted by Expert Systems With Applications (ESWA, CCF-C, 中科院一区Top期刊, JCR Q1, IF=7.55).
 - **[2025-05]** "Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration" has been accepted by International Conference on Machine Learning (ICML, CCF-A).
 - **[2024-12]** "Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline" has been accepted by AAAI Conference on Artificial Intelligence (AAAI, CCF-A).
