@@ -47,6 +47,14 @@ main:
       code: https://scholar.google.com/citations?hl=zh-CN&user=tScuhLkAAAAJ
       image: ./assets/img/HFP_ESWA.png
 
+    - title: "Graphs Help Graphs: Multi-Agent Graph Socialized Learning"
+      authors: Jialu Li, Yu Wang, Pengfei Zhu, Wanyu Lin, Xinjie Yao, Qinghua Hu.
+      conference_short: NeurIPS
+      conference: Conference on Neural Information Processing Systems, 2025
+      pdf: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
+      code: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
+      image: ./assets/img/NeurIPS_2025.png
+      
     - title: "Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline"
       authors: Zekai Zhang, Qinghui Chen, Maomao Xiong, Shijiao Ding, Zhanzhi Su, <strong>Xinjie Yao</strong>, Yiming Sun, Cong Bai, Jinglin Zhang.
       conference_short: AAAI
