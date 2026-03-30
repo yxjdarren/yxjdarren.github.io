@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently an Associate Professor at the Faculty of Information Engineering and Automation, Kunming University of Science and Technology.
 
-I received my Ph.D. degree in 2025 from the Vision Group, Lab of Machine Learning and Data Mining, Tianjin University (TJU), under the supervision of Prof. Pengfei Zhu, Prof. Qinghua Hu, and Assoc. Prof. Yu Wang.
+I received my Ph.D. degree in 2025 from the College of Intelligence and Computing, Tianjin University (TJU), under the supervision of Prof. Pengfei Zhu （朱鹏飞）, Prof. Qinghua Hu （胡清华）, and Assoc. Prof. Yu Wang （王煜）.
 
 Prior to that, I obtained my B.Sc. degree and M.Sc. degree from North China Electric Power University (NCEPU) and China University of Petroleum (East China) (UPC) in 2018 and 2021, respectively.
 
