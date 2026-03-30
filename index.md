@@ -12,7 +12,8 @@ Prior to that, I obtained my B.Sc. degree and M.Sc. degree from North China Elec
 
 ## Research Interests
 
-- **Collaborative Learning**
+- **Socialized Learning**
+- **AI4R**
 - **Continual Learning**
 - **Multi-View Learning**
   
