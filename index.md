@@ -12,7 +12,7 @@ His research has resulted in over 20 publications, including multiple papers in 
 
 - Sept.2021 - Nov.2025, College of Intelligence and Computing, Tianjin University
 - Sept.2015 - Jun.2021, College of Computer Science and Technology, China University of Petroleum (East China)
-- Sept.2014 - Jun.2018, Department of Computer, North China Electric Power University (NCEPU)
+- Sept.2014 - Jun.2018, Department of Computer, North China Electric Power University
   
 ## Research Interests
 
