@@ -4,23 +4,30 @@ layout: homepage
 
 ## About Me
 
-I am currently an Associate Professor at the Faculty of Information Engineering and Automation, Kunming University of Science and Technology.
+Xinjie Yao is an Associate Professor with the Faculty of Information Engineering and Automation at Kunming University of Science and Technology. He received his Ph.D. in 2025 from the College of Intelligence and Computing, Tianjin University (TJU), under the supervision of Prof. Pengfei Zhu (朱鹏飞), Prof. Qinghua Hu (胡清华), and Assoc. Prof. Yu Wang (王煜). His research has led to over 20 publications, including multiple papers in premier venues such as ICML, NeurIPS, AAAI, IJCV, IEEE TMM, and IEEE TCYB. His work focuses on end-to-end automated research systems (AI4R) and the advancement of intelligent unmanned systems, particularly toward enabling scalable and practical applications in low-altitude environments.
 
-I received my Ph.D. degree in 2025 from the College of Intelligence and Computing, Tianjin University (TJU), under the supervision of Prof. Pengfei Zhu （朱鹏飞）, Prof. Qinghua Hu （胡清华）, and Assoc. Prof. Yu Wang （王煜）.
+## Education
 
-Prior to that, I obtained my B.Sc. degree and M.Sc. degree from North China Electric Power University (NCEPU) and China University of Petroleum (East China) (UPC) in 2018 and 2021, respectively.
-
+- Sept.2021 - Nov.2025, College of Intelligence and Computing, Tianjin University
+- Sept.2015 - Jun.2021, College of Computer Science and Technology, China University of Petroleum (East China)
+- Sept.2014 - Jun.2018, Department of Computer, North China Electric Power University (NCEPU)
+  
 ## Research Interests
 
 - **AI4R**
+- **AI4S**
 - **Socialized Learning**
 - **Continual Learning**
 - **Multi-View Learning**
+
+## Prospective Students
+I am looking for highly self-motivated students. If you are interested, please feel free to send me your resume and academic transcript via email.
   
 ## News
 
 - **[2026-03]** "DROC: Open-Set Semi-Supervised Learning for Robust Perception in High-Dimensional Visual Systems" has been accepted by International Conference on Multimedia and Expo (ICME, CCF-B).
 - **[2025-09]** "Graphs Help Graphs: Multi-Agent Graph Socialized Learning" has been accepted by conference on Neural Information Processing Systems (NeurIPS, CCF-A).
+- **[2025-07]** "Failure Analysis and Corrosion Prediction of Scratch-Coated Steel Plate in Marine Atmosphere Using Semantic Segmentation and Temporal Prediction" has been accepted by Engineering Failure Analysis (EFA, 中科院二区期刊，JCR Q1，IF=5.7).
 - **[2025-06]** "Visible-Thermal Cross-Modality Class-Incremental Learning" has been accepted by Expert Systems With Applications (ESWA, CCF-C, 中科院一区Top期刊, JCR Q1, IF=7.55).
 - **[2025-05]** "Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration" has been accepted by International Conference on Machine Learning (ICML, CCF-A).
 - **[2024-12]** "Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline" has been accepted by AAAI Conference on Artificial Intelligence (AAAI, CCF-A).
