@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-Xinjie Yao is an Associate Professor with the Faculty of Information Engineering and Automation at Kunming University of Science and Technology. He received his Ph.D. in 2025 from the College of Intelligence and Computing, Tianjin University (TJU), under the supervision of Prof. Pengfei Zhu (朱鹏飞), Prof. Qinghua Hu (胡清华), and Assoc. Prof. Yu Wang (王煜). His research has led to over 20 publications, including multiple papers in premier venues such as ICML, NeurIPS, AAAI, IJCV, IEEE TMM, and IEEE TCYB. His work focuses on end-to-end automated research systems (AI4R) and the advancement of intelligent unmanned systems, particularly toward enabling scalable and practical applications in low-altitude environments.
+Xinjie Yao is an Associate Professor with the Faculty of Information Engineering and Automation at Kunming University of Science and Technology (KUST), and a member of the Yunnan Key Laboratory of Artificial Intelligence, led by Prof. Zhengtao Yu (余正涛). He received his Ph.D. in 2025 from the College of Intelligence and Computing, Tianjin University (TJU), under the supervision of Prof. Pengfei Zhu (朱鹏飞), Assoc. Prof. Yu Wang (王煜), and Prof. Qinghua Hu (胡清华).
+
+His research has resulted in over 20 publications, including multiple papers in premier venues such as ICML, NeurIPS, AAAI, IJCV, IEEE TMM, and IEEE TCYB. His work focuses on end-to-end automated research systems (AI4R) and the advancement of intelligent unmanned systems, with an emphasis on enabling scalable, reliable, and real-world applications, particularly in low-altitude environments.
 
 ## Education
 
