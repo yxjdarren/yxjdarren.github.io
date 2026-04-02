@@ -2,19 +2,19 @@
 layout: homepage
 ---
 
-## About Me
+<h2 id="about">About Me</h2>
 
 Xinjie Yao is an Associate Professor with the Faculty of Information Engineering and Automation at Kunming University of Science and Technology (KUST), and a member of the Yunnan Key Laboratory of Artificial Intelligence, led by Prof. Zhengtao Yu (余正涛). He received his Ph.D. in 2025 from the College of Intelligence and Computing, Tianjin University (TJU), under the supervision of Prof. Pengfei Zhu (朱鹏飞), Assoc. Prof. Yu Wang (王煜), and Prof. Qinghua Hu (胡清华).
 
 His research has resulted in over 20 publications, including multiple papers in premier venues such as ICML, NeurIPS, AAAI, IJCV, IEEE TMM, and IEEE TCYB. His work focuses on end-to-end automated research systems (AI4R) and the advancement of intelligent unmanned systems, with an emphasis on enabling scalable, reliable, and real-world applications, particularly in low-altitude environments.
 
-## Education
+<h2 id="education">Education</h2>
 
-- Sept.2021 - Nov.2025, College of Intelligence and Computing, Tianjin University
-- Sept.2015 - Jun.2021, College of Computer Science and Technology, China University of Petroleum (East China)
-- Sept.2014 - Jun.2018, Department of Computer, North China Electric Power University
+- Sept. 2021 - Nov. 2025, College of Intelligence and Computing, Tianjin University
+- Sept. 2015 - Jun. 2021, College of Computer Science and Technology, China University of Petroleum (East China)
+- Sept. 2014 - Jun. 2018, Department of Computer, North China Electric Power University
   
-## Research Interests
+<h2 id="research">Research Interests</h2>
 
 - **AI4R**
 - **AI4S**
@@ -22,10 +22,11 @@ His research has resulted in over 20 publications, including multiple papers in 
 - **Continual Learning**
 - **Multi-View Learning**
 
-## Prospective Students
+<h2 id="students">Prospective Students</h2>
+
 I am looking for highly self-motivated students. If you are interested, please feel free to send me your resume and academic transcript via email.
   
-## News
+<h2 id="news">News</h2>
 
 - **[2026-03]** "DROC: Open-Set Semi-Supervised Learning for Robust Perception in High-Dimensional Visual Systems" has been accepted by International Conference on Multimedia and Expo (ICME, CCF-B).
 - **[2025-09]** "Graphs Help Graphs: Multi-Agent Graph Socialized Learning" has been accepted by conference on Neural Information Processing Systems (NeurIPS, CCF-A).
@@ -43,7 +44,7 @@ I am looking for highly self-motivated students. If you are interested, please f
 - **[2023-06]** Our team has won the runner up of CVPR 2023 Continual Learning Challenge.
 - **[2022-02]** "Latent Heterogeneous Graph Network for Incomplete Multi-View Learning" has been accepted by IEEE Transactions on Multimedia (TMM, CCF-B, 中科院一区Top期刊, JCR Q1, IF=8.4).
 
-## Honors
+<h2 id="honors">Honors</h2>
 
 - **[2024]** National Scholarship
 - **[2024]** The third place in the University Track of the 2024 National Finals of the Ascend AI Innovation Competition
@@ -53,7 +54,7 @@ I am looking for highly self-motivated students. If you are interested, please f
 - **[2021]** National Scholarship
 - **[2021]** Outstanding Graduate of Shandong Province
 
-## Services
+<h2 id="services">Services</h2>
 
 - Workshop organizing committee/member: ICCV 2021, PRCV 2022, ICCV 2023, CCDM 2024
 - Reviewer of International Conference on Machine Learning (ICML)
@@ -81,6 +82,8 @@ I am looking for highly self-motivated students. If you are interested, please f
 - Reviewer of IET Intelligent Transport Systems
 - Reviewer of Expert Systems
 - Reviewer of IEEE Access
+
+<h2 id="publications">Publications</h2>
 
 {% include_relative _includes/publications.md %}
 
