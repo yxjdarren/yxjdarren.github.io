@@ -45,6 +45,10 @@
         --nav-accent-bg: rgba(37, 99, 235, 0.10);
       }
 
+      * {
+        box-sizing: border-box;
+      }
+
       .top-nav {
         position: fixed;
         top: 0;
@@ -146,19 +150,50 @@
       .wrapper {
         max-width: 1500px !important;
         margin: 0 auto;
-        display: flex;
-        gap: 48px;
+        padding: 0 24px;
+        display: grid !important;
+        grid-template-columns: 320px minmax(0, 1fr);
+        column-gap: 56px;
+        align-items: start;
+      }
+
+      header,
+      section {
+        float: none !important;
+        width: auto !important;
       }
 
       header {
-        width: 300px;
-        min-width: 300px;
+        min-width: 0;
+        position: sticky;
+        top: 108px;
+        align-self: start;
+        text-align: center;
       }
 
       section {
-        flex: 1;
-        max-width: 1050px;
         min-width: 0;
+        max-width: 100%;
+        overflow: hidden;
+      }
+
+      header .image.avatar {
+        display: inline-block;
+      }
+
+      header .image.avatar img {
+        max-width: 160px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+      }
+
+      header h1,
+      header position,
+      header email,
+      header autocolor,
+      header .social-icons {
+        word-break: break-word;
       }
 
       html {
@@ -204,18 +239,26 @@
         }
 
         .wrapper {
-          display: block;
+          display: block !important;
           max-width: 100% !important;
           padding: 0 16px;
         }
 
+        header,
+        section {
+          float: none !important;
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+
         header {
-          width: 100%;
-          min-width: 0;
+          position: static;
+          top: auto;
+          margin-bottom: 32px;
         }
 
         section {
-          max-width: 100%;
+          overflow: visible;
         }
       }
     </style>
@@ -236,6 +279,7 @@
 
         <div class="nav-menu" id="navMenu">
           <a href="#about">About</a>
+          <a href="#education">Education</a>
           <a href="#research">Research</a>
           <a href="#publications">Publications</a>
           <a href="#news">News</a>
@@ -266,15 +310,6 @@
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
-        
-        <!-- <br>
-        <div class='image' >
-        <img height="40" img="" src="./assets/img/VISDRONE-LOGO.png">
-        </div>
-        <be>
-        <div class='image' >
-        <img height="80" img="" src="./assets/img/LMDM-logo.png">
-        </div> -->
           
         <br>
         <div class="social-icons">
@@ -311,8 +346,8 @@
         <br>
 
       </header>
-      <section>
 
+      <section>
       {{ content }}
 
       <br>
@@ -320,11 +355,9 @@
       {% if site.enable_footnote %}
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
       {% endif %}
-
       </section>
-      <footer>
-        
-      </footer>
+
+      <footer></footer>
     </div>
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
@@ -360,6 +393,7 @@
 
       const sections = [
         'about',
+        'education',
         'research',
         'publications',
         'news',
