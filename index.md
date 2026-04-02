@@ -29,8 +29,8 @@ I am looking for highly self-motivated students. If you are interested, please f
 <h2 id="news">News</h2>
 
 - **[2026-03]** "DROC: Open-Set Semi-Supervised Learning for Robust Perception in High-Dimensional Visual Systems" has been accepted by International Conference on Multimedia and Expo (ICME, CCF-B).
-- **[2025-09]** "Graphs Help Graphs: Multi-Agent Graph Socialized Learning" has been accepted by Conference on Neural Information Processing Systems (NeurIPS, CCF-A).
-- **[2025-07]** "Failure Analysis and Corrosion Prediction of Scratch-Coated Steel Plate in Marine Atmosphere Using Semantic Segmentation and Temporal Prediction" has been accepted by Engineering Failure Analysis (EFA, 中科院二区期刊, JCR Q1, IF=5.7).
+- **[2025-09]** "Graphs Help Graphs: Multi-Agent Graph Socialized Learning" has been accepted by conference on Neural Information Processing Systems (NeurIPS, CCF-A).
+- **[2025-07]** "Failure Analysis and Corrosion Prediction of Scratch-Coated Steel Plate in Marine Atmosphere Using Semantic Segmentation and Temporal Prediction" has been accepted by Engineering Failure Analysis (EFA, 中科院二区期刊，JCR Q1，IF=5.7).
 - **[2025-06]** "Visible-Thermal Cross-Modality Class-Incremental Learning" has been accepted by Expert Systems With Applications (ESWA, CCF-C, 中科院一区Top期刊, JCR Q1, IF=7.55).
 - **[2025-05]** "Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration" has been accepted by International Conference on Machine Learning (ICML, CCF-A).
 - **[2024-12]** "Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline" has been accepted by AAAI Conference on Artificial Intelligence (AAAI, CCF-A).
@@ -41,7 +41,7 @@ I am looking for highly self-motivated students. If you are interested, please f
 - **[2024-05]** "Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration" has been accepted by International Conference on Machine Learning (ICML, CCF-A).
 - **[2024-03]** "Integrated Heterogeneous Graph Attention Network for Incomplete Multi-Modal Clustering" has been accepted by International Journal of Computer Vision (IJCV, CCF-A, 中科院二区, JCR Q1, IF=11.6).
 - **[2024-02]** "Multi-View Deep Subspace Clustering Networks" has been accepted by IEEE Transactions on Cybernetics (TCYB, CCF-B, 中科院一区Top期刊, JCR Q1, IF=9.4).
-- **[2023-06]** Our team has won the runner-up in the CVPR 2023 Continual Learning Challenge.
+- **[2023-06]** Our team has won the runner up of CVPR 2023 Continual Learning Challenge.
 - **[2022-02]** "Latent Heterogeneous Graph Network for Incomplete Multi-View Learning" has been accepted by IEEE Transactions on Multimedia (TMM, CCF-B, 中科院一区Top期刊, JCR Q1, IF=8.4).
 
 <h2 id="honors">Honors</h2>
@@ -69,7 +69,7 @@ I am looking for highly self-motivated students. If you are interested, please f
 - Reviewer of IEEE Transactions on Multimedia (TMM)
 - Reviewer of IEEE Transactions on Fuzzy Systems (TFS)
 - Reviewer of IEEE Transactions on Cybernetics (TCYB)
-- Reviewer of IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMCA)
+- Reviewer of IEEE Transactions on Systems Man Cybernetics-Systems (TSMCA)
 - Reviewer of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - Reviewer of IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - Reviewer of IEEE Transactions on Big Data (TBD)
@@ -83,6 +83,8 @@ I am looking for highly self-motivated students. If you are interested, please f
 - Reviewer of Expert Systems
 - Reviewer of IEEE Access
 
-<h2 id="publications">Selected Publications</h2>
+<h2 id="publications">Publications</h2>
 
 {% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
