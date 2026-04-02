@@ -6,7 +6,7 @@ layout: homepage
 
 Xinjie Yao is an Associate Professor with the Faculty of Information Engineering and Automation at Kunming University of Science and Technology (KUST), and a member of the Yunnan Key Laboratory of Artificial Intelligence, led by Prof. Zhengtao Yu (余正涛). He received his Ph.D. in 2025 from the College of Intelligence and Computing, Tianjin University (TJU), under the supervision of Prof. Pengfei Zhu (朱鹏飞), Assoc. Prof. Yu Wang (王煜), and Prof. Qinghua Hu (胡清华).
 
-His research has resulted in over 20 publications, including multiple papers in premier venues such as ICML, NeurIPS, AAAI, IJCV, IEEE TMM, and IEEE TCYB. His work focuses on end-to-end automated research systems (AI4R) and the advancement of intelligent unmanned systems, with an emphasis on enabling scalable, reliable, and real-world applications, particularly in low-altitude environments.
+His research has resulted in over 20 publications, including multiple papers in premier venues such as ICML, NeurIPS, AAAI, IJCV, IEEE TMM, and IEEE TCYB. His work lies at the intersection of end-to-end automated research systems (AI4R), AI for science (AI4S), and intelligent unmanned systems. In particular, he focuses on AI-driven corrosion analysis and prediction, as well as multimodal data fusion for materials science, while advancing scalable and reliable intelligent unmanned systems for real-world deployment, especially in low-altitude environments.
 
 <h2 id="education">Education</h2>
 
