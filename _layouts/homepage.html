@@ -64,9 +64,9 @@
       }
 
       .nav-inner {
-        max-width: 1180px;
+        max-width: 1500px;
         margin: 0 auto;
-        padding: 12px 20px;
+        padding: 12px 24px;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -86,6 +86,7 @@
         font-weight: 700;
         font-size: 1rem;
         letter-spacing: 0.2px;
+        white-space: nowrap;
       }
 
       .nav-brand:hover {
@@ -115,8 +116,9 @@
       }
 
       .nav-menu a.active {
-        color: var(--nav-accent);
-        background: var(--nav-accent-bg);
+        color: #ffffff;
+        background: var(--nav-accent);
+        box-shadow: 0 4px 12px rgba(37, 99, 235, 0.22);
       }
 
       .nav-toggle {
@@ -139,6 +141,24 @@
 
       body {
         padding-top: 76px;
+      }
+
+      .wrapper {
+        max-width: 1500px !important;
+        margin: 0 auto;
+        display: flex;
+        gap: 48px;
+      }
+
+      header {
+        width: 300px;
+        min-width: 300px;
+      }
+
+      section {
+        flex: 1;
+        max-width: 1050px;
+        min-width: 0;
       }
 
       html {
@@ -181,6 +201,21 @@
           width: 100%;
           border-radius: 10px;
           padding: 10px 12px;
+        }
+
+        .wrapper {
+          display: block;
+          max-width: 100% !important;
+          padding: 0 16px;
+        }
+
+        header {
+          width: 100%;
+          min-width: 0;
+        }
+
+        section {
+          max-width: 100%;
         }
       }
     </style>
@@ -337,14 +372,26 @@
 
       function setActiveNav() {
         let currentId = '';
-        const offset = 120;
+        const offset = 140;
 
-        sections.forEach(section => {
-          const top = section.offsetTop;
-          if (window.scrollY + offset >= top) {
+        for (const section of sections) {
+          const rect = section.getBoundingClientRect();
+          if (rect.top <= offset && rect.bottom > offset) {
             currentId = section.id;
+            break;
           }
-        });
+        }
+
+        if (!currentId && sections.length > 0) {
+          const firstRect = sections[0].getBoundingClientRect();
+          const lastRect = sections[sections.length - 1].getBoundingClientRect();
+
+          if (firstRect.top > offset) {
+            currentId = sections[0].id;
+          } else if (lastRect.bottom <= window.innerHeight) {
+            currentId = sections[sections.length - 1].id;
+          }
+        }
 
         navLinks.forEach(link => {
           link.classList.remove('active');
@@ -357,6 +404,7 @@
 
       setActiveNav();
       window.addEventListener('scroll', setActiveNav);
+      window.addEventListener('resize', setActiveNav);
     </script>
 
     {% if site.google_analytics %}
