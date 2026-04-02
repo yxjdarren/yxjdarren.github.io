@@ -45,10 +45,6 @@
         --nav-accent-bg: rgba(37, 99, 235, 0.10);
       }
 
-      * {
-        box-sizing: border-box;
-      }
-
       .top-nav {
         position: fixed;
         top: 0;
@@ -68,9 +64,9 @@
       }
 
       .nav-inner {
-        max-width: 1500px;
+        max-width: 1180px;
         margin: 0 auto;
-        padding: 12px 24px;
+        padding: 12px 20px;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -90,7 +86,6 @@
         font-weight: 700;
         font-size: 1rem;
         letter-spacing: 0.2px;
-        white-space: nowrap;
       }
 
       .nav-brand:hover {
@@ -120,9 +115,8 @@
       }
 
       .nav-menu a.active {
-        color: #ffffff;
-        background: var(--nav-accent);
-        box-shadow: 0 4px 12px rgba(37, 99, 235, 0.22);
+        color: var(--nav-accent);
+        background: var(--nav-accent-bg);
       }
 
       .nav-toggle {
@@ -145,55 +139,6 @@
 
       body {
         padding-top: 76px;
-      }
-
-      .wrapper {
-        max-width: 1500px !important;
-        margin: 0 auto;
-        padding: 0 24px;
-        display: grid !important;
-        grid-template-columns: 320px minmax(0, 1fr);
-        column-gap: 56px;
-        align-items: start;
-      }
-
-      header,
-      section {
-        float: none !important;
-        width: auto !important;
-      }
-
-      header {
-        min-width: 0;
-        position: sticky;
-        top: 108px;
-        align-self: start;
-        text-align: center;
-      }
-
-      section {
-        min-width: 0;
-        max-width: 100%;
-        overflow: hidden;
-      }
-
-      header .image.avatar {
-        display: inline-block;
-      }
-
-      header .image.avatar img {
-        max-width: 160px;
-        height: auto;
-        display: block;
-        margin: 0 auto;
-      }
-
-      header h1,
-      header position,
-      header email,
-      header autocolor,
-      header .social-icons {
-        word-break: break-word;
       }
 
       html {
@@ -237,29 +182,6 @@
           border-radius: 10px;
           padding: 10px 12px;
         }
-
-        .wrapper {
-          display: block !important;
-          max-width: 100% !important;
-          padding: 0 16px;
-        }
-
-        header,
-        section {
-          float: none !important;
-          width: 100% !important;
-          max-width: 100% !important;
-        }
-
-        header {
-          position: static;
-          top: auto;
-          margin-bottom: 32px;
-        }
-
-        section {
-          overflow: visible;
-        }
       }
     </style>
 
@@ -279,7 +201,6 @@
 
         <div class="nav-menu" id="navMenu">
           <a href="#about">About</a>
-          <a href="#education">Education</a>
           <a href="#research">Research</a>
           <a href="#publications">Publications</a>
           <a href="#news">News</a>
@@ -310,6 +231,15 @@
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
+        
+        <!-- <br>
+        <div class='image' >
+        <img height="40" img="" src="./assets/img/VISDRONE-LOGO.png">
+        </div>
+        <be>
+        <div class='image' >
+        <img height="80" img="" src="./assets/img/LMDM-logo.png">
+        </div> -->
           
         <br>
         <div class="social-icons">
@@ -346,8 +276,8 @@
         <br>
 
       </header>
-
       <section>
+
       {{ content }}
 
       <br>
@@ -355,9 +285,11 @@
       {% if site.enable_footnote %}
       <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
       {% endif %}
-      </section>
 
-      <footer></footer>
+      </section>
+      <footer>
+        
+      </footer>
     </div>
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
@@ -393,7 +325,6 @@
 
       const sections = [
         'about',
-        'education',
         'research',
         'publications',
         'news',
@@ -406,26 +337,14 @@
 
       function setActiveNav() {
         let currentId = '';
-        const offset = 140;
+        const offset = 120;
 
-        for (const section of sections) {
-          const rect = section.getBoundingClientRect();
-          if (rect.top <= offset && rect.bottom > offset) {
+        sections.forEach(section => {
+          const top = section.offsetTop;
+          if (window.scrollY + offset >= top) {
             currentId = section.id;
-            break;
           }
-        }
-
-        if (!currentId && sections.length > 0) {
-          const firstRect = sections[0].getBoundingClientRect();
-          const lastRect = sections[sections.length - 1].getBoundingClientRect();
-
-          if (firstRect.top > offset) {
-            currentId = sections[0].id;
-          } else if (lastRect.bottom <= window.innerHeight) {
-            currentId = sections[sections.length - 1].id;
-          }
-        }
+        });
 
         navLinks.forEach(link => {
           link.classList.remove('active');
@@ -438,7 +357,6 @@
 
       setActiveNav();
       window.addEventListener('scroll', setActiveNav);
-      window.addEventListener('resize', setActiveNav);
     </script>
 
     {% if site.google_analytics %}
