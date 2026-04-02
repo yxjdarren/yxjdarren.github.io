@@ -83,6 +83,6 @@ I am looking for highly self-motivated students. If you are interested, please f
 - Reviewer of Expert Systems
 - Reviewer of IEEE Access
 
-<h2 id="publications">Publications</h2>
+<h2 id="publications">Selected Publications</h2>
 
 {% include_relative _includes/publications.md %}
