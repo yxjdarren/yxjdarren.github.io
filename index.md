@@ -28,21 +28,22 @@ I am looking for highly self-motivated students. If you are interested, please f
   
 <h2 id="news">News</h2>
 
-- **[2026-03]** "DROC: Open-Set Semi-Supervised Learning for Robust Perception in High-Dimensional Visual Systems" has been accepted by International Conference on Multimedia and Expo (ICME, CCF-B).
-- **[2025-09]** "Graphs Help Graphs: Multi-Agent Graph Socialized Learning" has been accepted by conference on Neural Information Processing Systems (NeurIPS, CCF-A).
-- **[2025-07]** "Failure Analysis and Corrosion Prediction of Scratch-Coated Steel Plate in Marine Atmosphere Using Semantic Segmentation and Temporal Prediction" has been accepted by Engineering Failure Analysis (EFA, 中科院二区期刊，JCR Q1，IF=5.7).
-- **[2025-06]** "Visible-Thermal Cross-Modality Class-Incremental Learning" has been accepted by Expert Systems With Applications (ESWA, CCF-C, 中科院一区Top期刊, JCR Q1, IF=7.55).
-- **[2025-05]** "Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration" has been accepted by International Conference on Machine Learning (ICML, CCF-A).
-- **[2024-12]** "Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline" has been accepted by AAAI Conference on Artificial Intelligence (AAAI, CCF-A).
+- **[2026-04]** "Incomplete cross-modality class-incremental learning in visible-thermal recognition" has been accepted by Pattern Recognition (PR, CCF-B, 中科院一区Top期刊, JCR Q1, IF=7.6).
+- **[2026-03]** "Droc: open-set semi-supervised learning for robust perception in high-dimensional visual systems" has been accepted by International Conference on Multimedia and Expo (ICME, CCF-B).
+- **[2025-09]** "Graphs help graphs: multi-agent graph socialized learning" has been accepted by conference on Neural Information Processing Systems (NeurIPS, CCF-A).
+- **[2025-07]** "Failure analysis and corrosion prediction of scratch-coated steel plate in marine atmosphere using semantic segmentation and temporal prediction" has been accepted by Engineering Failure Analysis (EFA, 中科院二区期刊，JCR Q1，IF=5.7).
+- **[2025-06]** "Visible-thermal cross-modality class-incremental learning" has been accepted by Expert Systems With Applications (ESWA, CCF-C, 中科院一区Top期刊, JCR Q1, IF=7.55).
+- **[2025-05]** "Socialized coevolution: advancing a better world through cross-task collaboration" has been accepted by International Conference on Machine Learning (ICML, CCF-A).
+- **[2024-12]** "Zero-shot learning in industrial scenarios: new large-scale benchmark, challenges and baseline" has been accepted by AAAI Conference on Artificial Intelligence (AAAI, CCF-A).
 - **[2024-12]** Our team won the Bronze Medal in the University Track of the 2024 National Finals of the Ascend AI Innovation Competition.
 - **[2024-11]** I have been awarded the National Scholarship.
 - **[2024-11]** Our team won the Gold Medal in the University Track of the 2024 Tianjin Regional Finals of the Ascend AI Innovation Competition.
 - **[2024-05]** I have been recognized as the "Outstanding Youth" by the College of Intelligence and Computing at Tianjin University.
-- **[2024-05]** "Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration" has been accepted by International Conference on Machine Learning (ICML, CCF-A).
-- **[2024-03]** "Integrated Heterogeneous Graph Attention Network for Incomplete Multi-Modal Clustering" has been accepted by International Journal of Computer Vision (IJCV, CCF-A, 中科院二区, JCR Q1, IF=11.6).
-- **[2024-02]** "Multi-View Deep Subspace Clustering Networks" has been accepted by IEEE Transactions on Cybernetics (TCYB, CCF-B, 中科院一区Top期刊, JCR Q1, IF=9.4).
+- **[2024-05]** "Socialized learning: making each other better through multi-agent collaboration" has been accepted by International Conference on Machine Learning (ICML, CCF-A).
+- **[2024-03]** "Integrated heterogeneous graph attention network for incomplete multi-modal clustering" has been accepted by International Journal of Computer Vision (IJCV, CCF-A, 中科院二区, JCR Q1, IF=11.6).
+- **[2024-02]** "Multi-view deep subspace clustering networks" has been accepted by IEEE Transactions on Cybernetics (TCYB, CCF-B, 中科院一区Top期刊, JCR Q1, IF=9.4).
 - **[2023-06]** Our team has won the runner up of CVPR 2023 Continual Learning Challenge.
-- **[2022-02]** "Latent Heterogeneous Graph Network for Incomplete Multi-View Learning" has been accepted by IEEE Transactions on Multimedia (TMM, CCF-B, 中科院一区Top期刊, JCR Q1, IF=8.4).
+- **[2022-02]** "Latent heterogeneous graph network for incomplete multi-view learning" has been accepted by IEEE Transactions on Multimedia (TMM, CCF-B, 中科院一区Top期刊, JCR Q1, IF=8.4).
 
 <h2 id="honors">Honors</h2>
 
