@@ -64,7 +64,7 @@ main:
       image: ./assets/img/ICME2026.png
 
     - title: "Graphs help graphs: multi-agent graph socialized learning"
-      authors: Jialu Li, Yu Wang, Pengfei Zhu, Wanyu Lin, Xinjie Yao, Qinghua Hu.
+      authors: Jialu Li, Yu Wang, Pengfei Zhu, Wanyu Lin, <strong>Xinjie Yao</strong>, Qinghua Hu.
       conference_short: NeurIPS
       conference: Advances in Neural Information Processing Systems, 2025
       pdf: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
