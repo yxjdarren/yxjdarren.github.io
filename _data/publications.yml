@@ -1,5 +1,5 @@
 main:
-    - title: "Socialized Coevolution: Advancing a Better World through Cross-Task Collaboration"
+    - title: "Socialized coevolution: advancing a better world through cross-task collaboration"
       authors: <strong>Xinjie Yao</strong>, Yu Wang, Pengfei Zhu*, Wanyu Lin, Ruipu Zhao,  Zhoupeng Guo, Weihao Li, Qinghua Hu.
       conference_short: ICML
       conference: International Conference on Machine Learning, 2025
@@ -7,7 +7,7 @@ main:
       code: https://github.com/yxjdarren/SC
       image: ./assets/img/SC_ICML.png
       
-    - title: "Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration"
+    - title: "Socialized learning: making each other better through multi-agent collaboration"
       authors: <strong>Xinjie Yao#</strong>, Yu Wang#, Pengfei Zhu*, Wanyu Lin, Jialu Li, Weihao Li, Qinghua Hu.
       conference_short: ICML
       conference: International Conference on Machine Learning, 2024
@@ -15,23 +15,15 @@ main:
       code: https://github.com/yxjdarren/SL
       image: ./assets/img/SL_ICML.png
 
-    - title: "Integrated Heterogeneous Graph Attention Network for Incomplete Multi-Modal Clustering"
+    - title: "Integrated heterogeneous graph attention network for incomplete multi-modal clustering"
       authors: Yu Wang, <strong>Xinjie Yao</strong>, Pengfei Zhu*, Weihao Li, Meng Cao, and Qinghua Hu.
       conference_short: IJCV
       conference: International Journal of Computer Vision, 2024
       pdf: https://link.springer.com/article/10.1007/s11263-024-02066-y
       code: https://github.com/yxjdarren/IHGAT
       image: ./assets/img/IJCV_IHGAT.png
-
-    - title: "Multi-View Deep Subspace Clustering Networks"
-      authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Binyuan Hui, Dawei Du, and Qinghua Hu.
-      conference_short: TCYB
-      conference: IEEE Transactions on Cybernetics, 2024
-      pdf: https://ieeexplore.ieee.org/abstract/document/10478097
-      code: https://github.com/yxjdarren/MvDSCN
-      image: ./assets/img/TCYB_MvDSCN.png
       
-    - title: "Latent Heterogeneous Graph Network for Incomplete Multi-View Learning"
+    - title: "Latent heterogeneous graph network for incomplete multi-view learning"
       authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu.
       conference_short: TMM
       conference: IEEE Transactions on Multimedia, 2022
@@ -39,7 +31,23 @@ main:
       code: https://github.com/yxjdarren/LHGN_TMM_2022
       image: ./assets/img/LHGN_TMM.png
 
-    - title: "Visible-Thermal Cross-Modality Class-Incremental Learning"
+    - title: "Multi-view deep subspace clustering networks"
+      authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Binyuan Hui, Dawei Du, and Qinghua Hu.
+      conference_short: TCYB
+      conference: IEEE Transactions on Cybernetics, 2024
+      pdf: https://ieeexplore.ieee.org/abstract/document/10478097
+      code: https://github.com/yxjdarren/MvDSCN
+      image: ./assets/img/TCYB_MvDSCN.png
+
+    - title: "Incomplete cross-modality class-incremental learning in visible-thermal recognition"
+      authors: <strong>Xinjie Yao*</strong>, Yanxian Bi, Yu Wang*, Pengfei Zhu, Ruipu Zhao, Weihao Li, Wanyu Lin, Kai Li, Qinghua Hu.
+      conference_short: PR
+      conference: Pattern Recognition, 2026
+      pdf: https://www.sciencedirect.com/science/article/pii/S0031320326006461
+      code: https://www.sciencedirect.com/science/article/pii/S0031320326006461
+      image: ./assets/img/PR_2026.png
+
+    - title: "Visible-thermal cross-modality class-incremental learning"
       authors: <strong>Xinjie Yao</strong>, Yingxue Wang, Yu Wang*, Pengfei Zhu*, Ruipu Zhao, Weihao Li, Shenglei Pei, Wanyu Lin.
       conference_short: ESWA
       conference: Expert Systems with Applications, 2025
@@ -47,7 +55,15 @@ main:
       code: https://scholar.google.com/citations?hl=zh-CN&user=tScuhLkAAAAJ
       image: ./assets/img/HFP_ESWA.png
 
-    - title: "Graphs Help Graphs: Multi-Agent Graph Socialized Learning"
+    - title: "Droc: open-set semi-supervised learning for robust perception in high-dimensional visual systems"
+      authors: Jin Li, <strong>Xinjie Yao*</strong>, Yu Wang, Pengfei Zhu.
+      conference_short: ICME
+      conference: International Conference on Multimedia and Expo, 2026
+      pdf: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
+      code: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
+      image: ./assets/img/ICME2026.png
+
+    - title: "Graphs help graphs: multi-agent graph socialized learning"
       authors: Jialu Li, Yu Wang, Pengfei Zhu, Wanyu Lin, Xinjie Yao, Qinghua Hu.
       conference_short: NeurIPS
       conference: Advances in Neural Information Processing Systems, 2025
@@ -55,18 +71,10 @@ main:
       code: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
       image: ./assets/img/NeurIPS_2025.png
       
-    - title: "Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline"
+    - title: "Zero-shot learning in industrial scenarios: new large-scale benchmark, challenges and baseline"
       authors: Zekai Zhang, Qinghui Chen, Maomao Xiong, Shijiao Ding, Zhanzhi Su, <strong>Xinjie Yao</strong>, Yiming Sun, Cong Bai, Jinglin Zhang.
       conference_short: AAAI
       conference: AAAI Conference on Artificial Intelligence, 2025
       pdf: https://ojs.aaai.org/index.php/AAAI/article/view/33124
       code: https://ojs.aaai.org/index.php/AAAI/article/view/33124
       image: ./assets/img/AAAI2025.png
-
-    - title: "DROC: Open-Set Semi-Supervised Learning for Robust Perception in High-Dimensional Visual Systems"
-      authors: Jin Li, <strong>Xinjie Yao*</strong>, Yu Wang, Pengfei Zhu.
-      conference_short: ICME
-      conference: International Conference on Multimedia and Expo, 2026
-      pdf: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
-      code: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
-      image: ./assets/img/ICME2026.png
