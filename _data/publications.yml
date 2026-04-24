@@ -22,22 +22,6 @@ main:
       pdf: https://link.springer.com/article/10.1007/s11263-024-02066-y
       code: https://github.com/yxjdarren/IHGAT
       image: ./assets/img/IJCV_IHGAT.png
-      
-    - title: "Latent heterogeneous graph network for incomplete multi-view learning"
-      authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu.
-      conference_short: TMM
-      conference: IEEE Transactions on Multimedia, 2022
-      pdf: https://ieeexplore.ieee.org/document/9721669
-      code: https://github.com/yxjdarren/LHGN_TMM_2022
-      image: ./assets/img/LHGN_TMM.png
-
-    - title: "Multi-view deep subspace clustering networks"
-      authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Binyuan Hui, Dawei Du, and Qinghua Hu.
-      conference_short: TCYB
-      conference: IEEE Transactions on Cybernetics, 2024
-      pdf: https://ieeexplore.ieee.org/abstract/document/10478097
-      code: https://github.com/yxjdarren/MvDSCN
-      image: ./assets/img/TCYB_MvDSCN.png
 
     - title: "Incomplete cross-modality class-incremental learning in visible-thermal recognition"
       authors: <strong>Xinjie Yao*</strong>, Yanxian Bi, Yu Wang*, Pengfei Zhu, Ruipu Zhao, Weihao Li, Wanyu Lin, Kai Li, Qinghua Hu.
@@ -46,6 +30,22 @@ main:
       pdf: https://www.sciencedirect.com/science/article/pii/S0031320326006461
       code: https://www.sciencedirect.com/science/article/pii/S0031320326006461
       image: ./assets/img/PR_2026.png
+
+    - title: "Multi-view deep subspace clustering networks"
+      authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Binyuan Hui, Dawei Du, and Qinghua Hu.
+      conference_short: TCYB
+      conference: IEEE Transactions on Cybernetics, 2024
+      pdf: https://ieeexplore.ieee.org/abstract/document/10478097
+      code: https://github.com/yxjdarren/MvDSCN
+      image: ./assets/img/TCYB_MvDSCN.png
+      
+    - title: "Latent heterogeneous graph network for incomplete multi-view learning"
+      authors: Pengfei Zhu, <strong>Xinjie Yao</strong>, Yu Wang*, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu.
+      conference_short: TMM
+      conference: IEEE Transactions on Multimedia, 2022
+      pdf: https://ieeexplore.ieee.org/document/9721669
+      code: https://github.com/yxjdarren/LHGN_TMM_2022
+      image: ./assets/img/LHGN_TMM.png
 
     - title: "Visible-thermal cross-modality class-incremental learning"
       authors: <strong>Xinjie Yao</strong>, Yingxue Wang, Yu Wang*, Pengfei Zhu*, Ruipu Zhao, Weihao Li, Shenglei Pei, Wanyu Lin.
