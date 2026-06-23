@@ -28,6 +28,8 @@ I am looking for highly self-motivated students. If you are interested, please f
   
 <h2 id="news">News</h2>
 
+- **[2026-05]** "Multi-scale corrosion degradation of aluminum alloys in marine environment studied by computational, experimental, and artificial intelligence-assisted approaches" has been accepted by Progress in Materials Science (PMS, 中科院一区Top期刊, JCR Q1, IF=42.9).
+- **[2026-05]** "Degradation grading of organic coatings via explainable vision–impedance multimodal zero-shot learning" has been accepted by Corrosion Science (CS, 中科院一区Top期刊, JCR Q1, IF=10.3).
 - **[2026-04]** "Incomplete cross-modality class-incremental learning in visible-thermal recognition" has been accepted by Pattern Recognition (PR, CCF-B, 中科院一区Top期刊, JCR Q1, IF=7.6).
 - **[2026-03]** "Droc: open-set semi-supervised learning for robust perception in high-dimensional visual systems" has been accepted by International Conference on Multimedia and Expo (ICME, CCF-B).
 - **[2025-09]** "Graphs help graphs: multi-agent graph socialized learning" has been accepted by conference on Neural Information Processing Systems (NeurIPS, CCF-A).
