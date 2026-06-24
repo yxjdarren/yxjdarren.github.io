@@ -65,7 +65,7 @@ I am looking for highly self-motivated students. If you are interested, please f
 - Reviewer of International Conference on Learning Representations (ICLR)
 - Reviewer of International Conference on Computer Vision (ICCV)
 - Reviewer of International Conference on Artificial Intelligence and Statistics (AISTATS)
-- Reviewer of International Conference on Transactions on Machine Learning Research (TMLR)
+- Reviewer of IEEE Winter Conference on Applications of Computer Vision (WACV)
 - Reviewer of IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - Reviewer of IEEE Transactions on Image Processing (TIP)
 - Reviewer of IEEE Transactions on Knowledge and Data Engineering (TKDE)
@@ -81,6 +81,7 @@ I am looking for highly self-motivated students. If you are interested, please f
 - Reviewer of IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Reviewer of ACM Transactions on Information Systems (TOIS)
 - Reviewer of ACM Transactions on Intelligent Systems and Technology (TIST)
+- Reviewer of Transactions on Machine Learning Research (TMLR)
 - Reviewer of IEEE Signal Processing Letters (SPL)
 - Reviewer of IEEE Journal of Biomedical and Health Informatics (JBHI)
 - Reviewer of IET Intelligent Transport Systems
