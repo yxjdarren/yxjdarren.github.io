@@ -79,6 +79,7 @@ I am looking for highly self-motivated students. If you are interested, please f
 - Reviewer of IEEE Transactions on Big Data (TBD)
 - Reviewer of IEEE Transactions on Services Computing (TSC)
 - Reviewer of IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+- Reviewer of ‌Pattern Recognition (PR)
 - Reviewer of ACM Transactions on Information Systems (TOIS)
 - Reviewer of ACM Transactions on Intelligent Systems and Technology (TIST)
 - Reviewer of Transactions on Machine Learning Research (TMLR)
