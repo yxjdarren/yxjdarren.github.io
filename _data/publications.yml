@@ -66,7 +66,7 @@ main:
     - title: "Graphs help graphs: multi-agent graph socialized learning"
       authors: Jialu Li, Yu Wang, Pengfei Zhu, Wanyu Lin, <strong>Xinjie Yao</strong>, Qinghua Hu.
       conference_short: NeurIPS
-      conference: Advances in Neural Information Processing Systems, 2025
+      conference: Advances in Neural Information Processing Systems, 2026
       pdf: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
       code: https://scholar.google.com/citations?user=tScuhLkAAAAJ&hl=zh-CN&oi=ao
       image: ./assets/img/NeurIPS_2025.png
